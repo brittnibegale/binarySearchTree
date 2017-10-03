@@ -1,0 +1,6 @@
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\britt\documents\visual studio 2015\Projects\BinarySearchTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
